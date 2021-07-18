@@ -1,0 +1,7 @@
+#maria de lourdes chevez vasquez 
+#funcion cadena 
+mensaje  =  'Bienvenidos'  +  'a mi nuevo'  +  'Programa de python'
+men1 = mensaje . dividir ()
+men2 = '' . unirse ( men1 )
+imprimir ( Mensaje [ 0 ], Mensaje [ 0 : 4 ], MEN1 , men2 )
+print ( mensaje . find ( "a mi nuevo" ), mensaje . lower ())
