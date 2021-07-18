@@ -1,0 +1,3 @@
+frase  =  input ( "Ingrese frase a usar:" )
+para  índice  en  rango ( len ( frase )):
+    print ( índice , '=' , frase [ índice ])
